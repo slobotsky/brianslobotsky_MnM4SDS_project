@@ -1,3 +1,3 @@
 # Welcome to my project repository!
 
-My project progress can be found in 'termproject.ipynb.' If you have any questions or suggestions email me at bslobots@umd.edu!
+My final project report can be found in 'GEOG788P Report.pdf' and the code can be found in 'termproject.ipynb.'
